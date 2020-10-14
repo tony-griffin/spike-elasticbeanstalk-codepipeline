@@ -21,7 +21,8 @@
     "url": "https://github.com/tony-griffin/spike-elasticbeanstalk-codepipeline/issues"
   },
   "homepage": "https://github.com/tony-griffin/spike-elasticbeanstalk-codepipeline#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "express": "^4.17.1"
   }
 }
